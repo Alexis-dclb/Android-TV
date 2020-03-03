@@ -1,0 +1,13 @@
+body{
+    font-family: 'lato';
+    font-size: 75px;
+    text-align: center;
+    margin-top: 200px;
+    color: white;
+}
+body>p{
+    text-align: center;
+    font-size :25px;
+}
+
+
